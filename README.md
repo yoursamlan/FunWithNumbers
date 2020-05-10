@@ -1,6 +1,8 @@
 ## Welcome to Fun with Numbers
 ### by Amlan Saha Kundu 
 
+Fun with Number is created to play with various numbers with the help of Python programming language. Here you can learn so many different types of numbers. Like...
+- [Perfect Number](https://github.com/yoursamlan/FunWithNumbers/blob/master/04%20Perfect%20Number%20.py)
 <!--
 You can use the [editor on GitHub](https://github.com/yoursamlan/FunWithNumbers/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
