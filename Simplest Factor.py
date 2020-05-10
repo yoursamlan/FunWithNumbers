@@ -1,3 +1,4 @@
+#In this program we will enter a number and get its factors as the output in a list format.
 num = int(input("Enter number: "))
 def factors(n):
     flist = []
