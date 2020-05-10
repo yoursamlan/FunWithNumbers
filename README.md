@@ -3,39 +3,14 @@
 
 Fun with Number is created to play with various numbers with the help of Python programming language. Here you can learn so many different types of numbers. Like...
 - [Perfect Number](https://github.com/yoursamlan/FunWithNumbers/blob/master/04%20Perfect%20Number%20.py)
-<!--
-You can use the [editor on GitHub](https://github.com/yoursamlan/FunWithNumbers/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- [Amicable Number](https://github.com/yoursamlan/FunWithNumbers/blob/master/05%20Amicable%20Number%20.py)
+- [Father and Child Prime](https://github.com/yoursamlan/FunWithNumbers/blob/master/06%20Child%20Prime%20.py)
+etc.
+Also, I have analyzed the trend on number of factors of positive integers upto 100. Surprisingly the highest no. of factors upto hundred is 12 and that have occured exactly 5 times. Here is the [visualization](https://github.com/yoursamlan/FunWithNumbers/blob/master/02%20Visualize%20the%20Number%20of%20factors%20trend%20.py)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+![Graph](https://github.com/yoursamlan/FunWithNumbers/blob/master/Figure_1.png)
+Data:
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yoursamlan/FunWithNumbers/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.-->
+[1, 2, 2, 3, 2, 4, 2, 4, 3, 4, 2, 6, 2, 4, 4, 5, 2, 6, 2, 6, 4, 4, 2, 8, 3, 4, 4, 6, 2, 8, 2, 6, 4, 4, 4, 9, 2, 4, 4, 8, 2, 8, 2, 6, 6, 4, 2, 10, 3, 6, 4, 6, 2, 8, 4, 8, 4, 4, 2, 12, 2, 4, 6, 7, 4, 8, 2, 6, 4, 8, 2, 12, 2, 4, 6, 6, 4, 8, 2, 10, 5, 4, 2, 12, 4, 4, 4, 8, 2, 12, 4, 6, 4, 4, 4, 12, 2, 6, 6, 9]
+```
+I will update and analyze the afore-mentioned result shortly.
