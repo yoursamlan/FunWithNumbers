@@ -5,6 +5,7 @@ Fun with Number is created to play with various numbers with the help of Python 
 - [Perfect Number](https://github.com/yoursamlan/FunWithNumbers/blob/master/04%20Perfect%20Number%20.py)
 - [Amicable Number](https://github.com/yoursamlan/FunWithNumbers/blob/master/05%20Amicable%20Number%20.py)
 - [Father and Child Prime](https://github.com/yoursamlan/FunWithNumbers/blob/master/06%20Child%20Prime%20.py)
+<br>
 etc.
 Also, I have analyzed the trend on number of factors of positive integers upto 100. Surprisingly the highest no. of factors upto hundred is 12 and that have occured exactly 5 times. Here is the [visualization](https://github.com/yoursamlan/FunWithNumbers/blob/master/02%20Visualize%20the%20Number%20of%20factors%20trend%20.py)
 
