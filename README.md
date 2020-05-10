@@ -9,7 +9,7 @@ Fun with Number is created to play with various numbers with the help of Python 
 
 Also, I have analyzed the trend on number of factors of positive integers upto 100. Surprisingly the highest no. of factors upto hundred is 12 and that have occured exactly 5 times. Here is the [visualization](https://github.com/yoursamlan/FunWithNumbers/blob/master/02%20Visualize%20the%20Number%20of%20factors%20trend%20.py)
 
-![Graph](https://github.com/yoursamlan/FunWithNumbers/blob/master/Figure_1.png)
+![Graph](./Figure_1.png)
 Data:
 ```
 [1, 2, 2, 3, 2, 4, 2, 4, 3, 4, 2, 6, 2, 4, 4, 5, 2, 6, 2, 6, 4, 4, 2, 8, 3, 4, 4, 6, 2, 8, 2, 6, 4, 4, 4, 9, 2, 4, 4, 8, 2, 8, 2, 6, 6, 4, 2, 10, 3, 6, 4, 6, 2, 8, 4, 8, 4, 4, 2, 12, 2, 4, 6, 7, 4, 8, 2, 6, 4, 8, 2, 12, 2, 4, 6, 6, 4, 8, 2, 10, 5, 4, 2, 12, 4, 4, 4, 8, 2, 12, 4, 6, 4, 4, 4, 12, 2, 6, 6, 9]
