@@ -6,4 +6,4 @@ def factors(n):
         if n%i == 0:
             flist.append(i)
     return flist
-    print(factors(num))
+print(factors(num))
